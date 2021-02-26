@@ -3,4 +3,4 @@
 made a password generater
 
 ![Image of homework]
-(Password-Generator/assets/images/password-gen.png)
+(https://github.com/Immanity/Password-Generator/blob/main/Password-Generator/assets/images/password-gen.png)
